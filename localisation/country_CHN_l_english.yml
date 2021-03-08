@@ -2454,11 +2454,87 @@ CHN_debuff_compliance_category_tt:0 "§Y순응 촉진§!의 다섯 단계가 모
 CHN_debuff_changeling_category_var_add_one_tt:0 "§Y점령 통합§!의 (§G1§!)단계가 완료되었습니다.\n"
 CHN_debuff_resistance_category_var_add_one_tt:0 "§Y저항 §!의 (§G1§!)단계가 완료되었습니다.\n"
 CHN_debuff_compliance_category_var_add_one_tt:0 "§Y순응 촉진§!의 (§G1§!)단계가 완료되었습니다.\n"
-CHN_remove_fobs:0 "Decommission Forward Operating Bases"
-CHN_remove_fobs_desc:0 "For whatever reason, the Heer has decided that its network of Forward Operating Bases across Equus have become redundant or otherwise unnecessary. The decommissioning of the bases will free up garrisoned personnel for service elsewhere, though some within the military are concerned with the long-term ramifications of such an act."
+CHN_remove_fobs:0 "전방 운영기지 해체"
+CHN_remove_fobs_desc:0 "어떤 이유에서든, 군대는 에쿠스 전역의 운영기지 연결망이 너무 많거나 불필요하다고 결정했습니다. 기지의 해체는 다른 곳에서 복무할 수 있는 수비대원들을 해방시킬 수있지만, 군대 내 일부는 그 행동의 장기적인 영향을 우려하고 있습니다."
 
 CHN_settlement_plan_cat:0 "정착계획 팽창주의"
-CHN_settlement_plan_cat_desc:0 "The best way to control Equestria is to fill it with our own people. Colonization plans for the bordering states along the old border with Equestria will allow us to fill the land with loyal changelings, many of whom fought in the Great War, and tighten our grip over the surrounding land. With a firm grip, we can reduce §RResistance§! and increase §CCompliance§! in these territories, as well as get more resources out of them."
+CHN_superweapon:0 "Military Research & Development"
+
+2443
+
+CHN_railway_gun_plans:0 "Soryth-Klasse Schematics"
+
+2444
+
+CHN_railway_gun_build:0 "Construct the S.K. Eisenbahnwaffe"
+
+2445
+
+
+
+2446
+
+CHN_equestrian_insurgency_category:0 "반체인질링 반란"
+
+2447
+
+CHN_equestrian_insurgency_category_desc:0 "우리가 §C대전쟁§! 에서 승리했을지 모르지만, 대륙 정복은 아직 끝나지 않았습니다. §R조화주의 반란§!과 수많은 반란 운동들은 패배한 포니들과 사슴을 옥죄는 것을 위협합니다. 그런 저항이 무너지기 전까지 이퀘스트리아와 에쿠스에 대한 우리의 통치는 결코 완전히 안전할 수 없습니다."
+
+2448
+
+CHN_debuff_changeling_category:0 "점령 통합: §Y[?CHN_debuff_changeling_category_var]§!/5"
+
+2449
+
+CHN_debuff_resistance_category:0 "저항 진압: §Y[?CHN_debuff_resistance_category_var]§!/5"
+
+2450
+
+CHN_debuff_compliance_category:0 "순응 & 협력 촉진: §Y[?CHN_debuff_compliance_category_var]§!/5"
+
+2451
+
+CHN_debuff_changeling_category_completed_tt:0 "§Y점령 통합§!의 다섯 단계가 모두 완료되었습니다."
+
+2452
+
+CHN_debuff_resistance_category_completed_tt:0 "§Y저항 억제§!의 다섯 단계가 모두 완료되었습니다."
+
+2453
+
+CHN_debuff_compliance_category_tt:0 "§Y순응 촉진§!의 다섯 단계가 모두 완료되었습니다."
+
+2454
+
+CHN_debuff_changeling_category_var_add_one_tt:0 "§Y점령 통합§!의 (§G1§!)단계가 완료되었습니다.\n"
+
+2455
+
+CHN_debuff_resistance_category_var_add_one_tt:0 "§Y저항 §!의 (§G1§!)단계가 완료되었습니다.\n"
+
+2456
+
+CHN_debuff_compliance_category_var_add_one_tt:0 "§Y순응 촉진§!의 (§G1§!)단계가 완료되었습니다.\n"
+
+2457
+
+CHN_remove_fobs:0 "전방 운영기지 해체"
+
+2458
+
+CHN_remove_fobs_desc:0 "어떤 이유에서든, 군대는 에쿠스 전역의 운영기지 연결망이 너무 많거나 불필요하다고 결정했습니다. 기지의 해체는 다른 곳에서 복무할 수 있는 수비대원들을 해방시킬 수있지만, 군대 내 일부는 그 행동의 장기적인 영향을 우려하고 있습니다."
+
+2459
+
+
+
+2460
+
+CHN_settlement_plan_cat:0 "정착계획 팽창주의"
+
+2461
+
+CHN_settlement_plan_cat_desc:0 "이퀘스트리아를 통제하는 가장 좋은 방법은 우리 국민으로 가득 채우는 것입니다. 이퀘스트리아와의 옛 국경을 따라 맞대고 있는 주에 대한 식민지화 계획은 그 땅을 대전쟁에서 싸웠던 충성스러운 체인질링으로 채워 그 주변 땅에 대한 지배력을 강화시킬 것입니다. 확고한 지배력으로, 이 영토들의 §R저항§!을 줄이고 §C순응§!을 증가시킬 뿐만 아니라CHN_settlement_plan_cat_desc:0 "이퀘스트리아를 통제하는 가장 좋은 방법은 우리 국민으로 가득 채우는 것입니다. 이퀘스트리아와의 옛 국경을 따라 맞대고 있는 주에 대한 식민지화 계획은 그 땅을 대전쟁에서 싸웠던 충성스러운 체인질링으로 채워 그 주변 땅에 대한 지배력을 강화시킬 것입니다. 확고한 지배력으로, 이 영토들의 §R저항§!을 줄이고 §C순응§!을 증가시킬 뿐만 아니라 더 많은 자원을 얻을 수 있습니다."
 CHN_acornage_colonisation_decision:0 "아코네이지의 식민화"
 CHN_acornage_colonisation_decision_desc:0 "\n§YFor [?days_mission_timeout@CHN_acornage_colonisation_decision] days:§!\n§W§YAcornage§!:\n      Required Garrisons: §R+50%§!\n      No Compliance Gain: §RYes§!\n      Recruitable Population: §R-50.00%§!\n      Weekly Population Movement to Neighbouring States: §R-5000§!§!"
 CHN_vanhoover_colonisation_decision:0 "밴후버의 식민화"
